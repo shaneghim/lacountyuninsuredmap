@@ -60,7 +60,7 @@ Together, these five neighborhoods are home to about 3% of the county's resident
 
 1.  Install [R](https://cran.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/), then install the packages listed at the top of the script.
 2.  Get a free [Census API key](https://api.census.gov/data/key_signup.html) and save it in R with `tidycensus::census_api_key("YOUR_KEY", install = TRUE)`, then restart R.
-3.  Open `la_uninsured_map.R` and run it section by section. The map saves as `la_uninsured_map_v2.html`; rename it to `index.html` to publish it.
+3.  Open `la_uninsured_map.R` and run it section by section. The map saves as `la_uninsured_map.html`; rename it to `index.html` to publish it.
 
 **Limitations**
 
