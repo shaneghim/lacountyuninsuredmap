@@ -2,9 +2,9 @@
 
 This R project maps the share of residents without health insurance across Los Angeles County. I downloaded Census estimates for every census tract, grouped the tracts into named neighborhoods, and built an interactive map that shows neighborhoods when zoomed out and individual tracts when zoomed in.
 
-[View the interactive map](https://YOUR-USERNAME.github.io/YOUR-REPO/)
+[View the interactive map](https://shaneghim.github.io/lacountyuninsuredmap/)
 
-[![](map_screenshot.png)](https://YOUR-USERNAME.github.io/YOUR-REPO/)
+[![](map_screenshot.png)](https://shaneghim.github.io/lacountyuninsuredmap/)
 
 **Data**
 
